@@ -1,1 +1,71 @@
+0 | 1 | 2
+--+---+--
+3 | 4 | 5
+--+---+--
+6 | 7 | 8
 
+Player X, Enter position (0-8): 7
+
+0 | 1 | 2
+--+---+--
+3 | 4 | 5
+--+---+--
+6 | X | 8
+
+Player O, Enter position (0-8): 5
+
+0 | 1 | 2
+--+---+--
+3 | 4 | O
+--+---+--
+6 | X | 8
+
+Player X, Enter position (0-8): 4
+
+0 | 1 | 2
+--+---+--
+3 | X | O
+--+---+--
+6 | X | 8
+
+Player O, Enter position (0-8): 1
+
+0 | O | 2
+--+---+--
+3 | X | O
+--+---+--
+6 | X | 8
+
+Player X, Enter position (0-8): 0
+
+X | O | 2
+--+---+--
+3 | X | O
+--+---+--
+6 | X | 8
+
+Player O, Enter position (0-8): 8
+
+X | O | 2
+--+---+--
+3 | X | O
+--+---+--
+6 | X | O
+
+Player X, Enter position (0-8): 6
+
+X | O | 2
+--+---+--
+3 | X | O
+--+---+--
+X | X | O
+
+Player O, Enter position (0-8): 2
+
+X | O | O
+--+---+--
+3 | X | O
+--+---+--
+X | X | O
+
+Player O Wins!
